@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Zen1tHH2510 aka Yan Myo Aung
-- 💞️ I know laravel,jquery,livewire,bootstrap
-- 🌱 I’m currently learning vue 
+- 👋 Hi, I’m Yan Myo Aung
+- 💞️ I know laravel,jquery,livewire,bootstrap 
 - 📫 reach me by ylay0857@gmail.com
 
 <!---
